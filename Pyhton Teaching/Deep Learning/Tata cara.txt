@@ -1,0 +1,1 @@
+1. Install Cuda (berdasarkan Type Nvdia nya) https://www.nvidia.com/download/index.aspx
