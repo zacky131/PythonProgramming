@@ -6,7 +6,7 @@ This is a temporary script file.
 """
 
 """
-Pada bagian 2 ini, kita akan belajar mengenai berbagai macam tipe dalam programming Python. 
+Pada bagian 2 ini, kita akan belajar mengenai berbagai macam tipe data dalam programming Python. 
 Selain itu, kita juga akan belajar bagaimana menyimpan data pada variable serta menggunakannya pada program yang kita buat.
 Apa sebenarnya yang terjadi ketika menjalankan program “Lesson_2_variable.py”
 Ketika menjalankan program tersebut kita akan melihat : “Aku bisa programming Python dengan mudah!!!”.
